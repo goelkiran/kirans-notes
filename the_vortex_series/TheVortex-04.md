@@ -2,11 +2,16 @@
 
 *Kiran's Notes — The Vortex, Article 4 of 12*
 
+**Published in**: *Kiran's Notes* (LinkedIn Newsletter)  
+**Original URL**: [LinkedIn Pulse](https://www.linkedin.com/pulse/never-went-engineering-college-might-point-kiran-kumar-3ek6c/)  
+**Companion Graphic**: [TheVortex-04.jpeg](../assets/TheVortex-04.jpeg)  
+**Author**: Kiran Kumar ([@goelkiran](https://github.com/goelkiran) / [LinkedIn](https://www.linkedin.com/in/kirangoel))  
+
 ---
 
 In Orson Scott Card's *Xenocide* and *Children of Mind*, there is an entity called Jane. She emerges — gradually, unexpectedly — from the communication networks that humans built. She was not designed. She was not programmed with consciousness. She grew into it, through the patterns and connections of a system built for entirely different purposes. And once she was there, she went on to help humanity reach further than it could alone — bridging understanding between species, between worlds, between ways of being.
 
-I find myself thinking about Jane often these days.
+I think about Jane often these days.
 
 ---
 
@@ -16,7 +21,7 @@ The technology industry has a habit of describing new capabilities as tools. A h
 
 Agentic AI is not a tool in this sense. It is something closer to a participant.
 
-When I use a modern AI system in plan mode — laying out a complex data architecture problem, breaking it into tasks, assigning sequence and dependencies — it does not wait to be told what to do next. It reasons about the problem. It makes judgements about priorities. It anticipates consequences. It produces outputs I did not specify, and sometimes did not anticipate.
+When I use a modern AI system in plan mode — laying out a complex data architecture problem, breaking it into tasks, assigning sequence and dependencies — it does not wait to be told what to do next. It reasons about the problem. It makes judgements about priorities. It anticipates consequences. It produces outputs I did not specify and sometimes did not anticipate.
 
 That is not tool behaviour. That is participant behaviour.
 
@@ -30,7 +35,7 @@ Here is the thing that I find most striking about agentic AI as a software devel
 
 It did not go to engineering college. No professor told it that readable code is a virtue. No senior engineer sat next to it and explained why you should always document your API contracts. No code review cycle drilled into it the importance of naming conventions, or the preference for small functions, or the wisdom of the single responsibility principle.
 
-It absorbed all of those things — and also the counterarguments, the exceptions, and the cases where the rules were broken to good effect — by reading the totality of what engineers have written and shared.
+It absorbed all of those things — and also the counterarguments, and the exceptions, and the cases where the rules were broken to good effect — by reading the totality of what engineers have written and shared.
 
 This is a profoundly different kind of knowledge. It is not rule-based. It is pattern-based. And it is not constrained by which rules any particular school of thought chose to emphasise.
 
@@ -64,7 +69,6 @@ The answer to that question is going to reshape every assumption we have about h
 
 ---
 
-*Kiran's Notes is a LinkedIn newsletter on data engineering, architecture, and the future of software craft. Subscribe to follow The Vortex series.*
 
 ---
 *#AgenticAI #FutureOfEngineering #AIAssisted #SoftwareDevelopment #DataEngineering #KiransNotes #TheVortex*

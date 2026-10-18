@@ -2,6 +2,11 @@
 
 *Kiran's Notes — The Vortex, Article 3 of 12*
 
+**Published in**: *Kiran's Notes* (LinkedIn Newsletter)  
+**Original URL**: [LinkedIn Pulse](https://www.linkedin.com/pulse/agile-microservices-were-invented-people-machines-kiran-kumar-x9ekc/)  
+**Companion Graphic**: [TheVortex-03.jpeg](../assets/TheVortex-03.jpeg)  
+**Author**: Kiran Kumar ([@goelkiran](https://github.com/goelkiran) / [LinkedIn](https://www.linkedin.com/in/kirangoel))  
+
 ---
 
 Before I question something, I want to honour it first.
@@ -74,7 +79,6 @@ That participant is the subject of the next article.
 
 ---
 
-*Kiran's Notes is a LinkedIn newsletter on data engineering, architecture, and the future of software craft. Subscribe to follow The Vortex series.*
 
 ---
 *#AgileMethodology #Microservices #SoftwareEngineering #TechLeadership #DataEngineering #KiransNotes #TheVortex*

@@ -2,19 +2,22 @@
 
 *Kiran's Notes — The Vortex, Article 5 of 12*
 
+**Published in**: *Kiran's Notes* (LinkedIn Newsletter)  
+**Original URL**: [LinkedIn Pulse](https://www.linkedin.com/pulse/only-looks-like-pendulum-swinging-back-isnt-kiran-kumar-njuuc/)  
+**Companion Graphic**: [TheVortex-05.jpeg](../assets/TheVortex-05.jpeg)  
+**Author**: Kiran Kumar ([@goelkiran](https://github.com/goelkiran) / [LinkedIn](https://www.linkedin.com/in/kirangoel))  
+
 ---
 
 Something interesting has been happening in the technology industry over the last few years, and it is being misread.
 
 Amazon Prime Video's team published a blog post in 2023 describing how they moved a distributed microservices architecture back into a monolith — and cut their infrastructure costs by 90%. DHH and the Basecamp team have been arguing for years that the Rails monolith never needed to be broken apart. Teams across the industry are quietly consolidating services that were split more out of organisational habit than genuine technical necessity.
 
-At the same time, there is a creeping return of structured upfront thinking in software delivery. More design before build. More explicit specifications. In plan mode with agentic AI tools, I often feel — and I will come back to this — like I am doing waterfall all over again.
+Simultaneously, there is a creeping return of structured upfront thinking in software delivery. More design before build. More explicit specifications. In plan mode with agentic AI tools, I often feel — and I will come back to this — like I am doing waterfall all over again.
 
 The easy interpretation of all this is that the pendulum is swinging back. Monoliths returning. Waterfall returning. The microservices and agile era winding down, with the industry retreating to familiar ground.
 
-I think this interpretation is wrong.
-
-And the distinction matters.
+I think this interpretation is wrong. And the distinction matters.
 
 ---
 
@@ -24,7 +27,7 @@ A pendulum returns to where it started. The same position, the same height, the 
 
 That is not what is happening.
 
-The Amazon Prime Video monolith is not the same as a 2000-era monolith. It runs on cloud infrastructure that didn't exist then. It is deployed via CI/CD pipelines that automate what used to require weeks of manual coordination. It is monitored with observability tools that give engineers real-time insight into its behaviour — something that was simply impossible before. The team that owns it is structured and skilled in ways that reflect twenty years of hard-won understanding about software engineering.
+The Amazon Prime Video monolith is not the same as a 2000-era monolith. It runs on cloud infrastructure that didn't exist then. It is deployed via CI/CD pipelines that automate what used to require weeks of manual coordination. It is monitored with observability tools that give engineers real-time insight into its behaviour that was simply impossible before. The team that owns it is structured and skilled in ways that reflect twenty years of hard-won understanding about software engineering.
 
 It looks like a monolith. It shares the name. But the ground it sits on is entirely different.
 
@@ -58,13 +61,7 @@ If your team is fifty engineers across three time zones, microservices may still
 
 But if agentic AI is meaningfully reducing the cognitive cost of working with large codebases — and early evidence suggests it is — then the architectural trade-offs shift. Not completely, not immediately, but directionally.
 
-The pendulum metaphor is seductive because it is simple. Things go one way, then come back. Cycles repeat.
-
-But the vortex is not a pendulum.
-
-It is a system that evolves.
-
-And when a new character enters the system, the calculations change.
+The pendulum metaphor is seductive because it is simple. Things go one way, then come back. Cycles repeat. But the vortex is not a pendulum. It is a system that evolves. And when a new character enters the system, the calculations change.
 
 The industry is not retreating. It is recalibrating.
 
@@ -72,7 +69,6 @@ The industry is not retreating. It is recalibrating.
 
 ---
 
-*Kiran's Notes is a LinkedIn newsletter on data engineering, architecture, and the future of software craft. Subscribe to follow The Vortex series.*
 
 ---
 *#SoftwareArchitecture #Microservices #AgileVsWaterfall #TechLeadership #DataEngineering #KiransNotes #TheVortex*
