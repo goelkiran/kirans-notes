@@ -1,0 +1,9 @@
+﻿# Operating System Artifacts
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
+*.bak
+
+# Temporary extraction files
+extracted_raw.txt
