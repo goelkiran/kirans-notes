@@ -9,6 +9,10 @@
 
 ---
 
+<div align="center">
+  <img src="../assets/TheVortex-07.jpeg" alt="The Vortex, Article 7 of 12" width="100%" style="max-width: 800px; border-radius: 8px; margin: 16px 0;" />
+</div>
+
 I want to return to the question that started this whole series.
 
 A quality engineer on my team — experienced, sharp, the kind of person who thinks in failure modes as naturally as most people think in features — leaned back in a retrospective and asked it almost casually:

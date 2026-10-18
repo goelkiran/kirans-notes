@@ -9,6 +9,10 @@
 
 ---
 
+<div align="center">
+  <img src="../assets/TheVortex-12.jpeg" alt="The Vortex, Article 12 of 12" width="100%" style="max-width: 800px; border-radius: 8px; margin: 16px 0;" />
+</div>
+
 I want to end this series the way it began — honestly.
 
 Eleven articles ago, I said I did not have clean answers. I still do not. The questions I have been wrestling with — how testing changes, how we version AI-authored code, what the engineer of the future looks like, how we redesign an SDLC that was built for a different era — are genuinely open. The people who tell you they have definitive answers to these questions are either further ahead than I am, or less honest about the uncertainty.

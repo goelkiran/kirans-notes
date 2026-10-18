@@ -9,6 +9,10 @@
 
 ---
 
+<div align="center">
+  <img src="../assets/TheVortex-11.jpeg" alt="The Vortex, Article 11 of 12" width="100%" style="max-width: 800px; border-radius: 8px; margin: 16px 0;" />
+</div>
+
 The software development lifecycle we use today was not designed. It was accumulated.
 
 It is a layered deposit of responses to problems encountered over fifty years of building software — with human teams, at human speed, within human cognitive limits. Waterfall came first, then structured methods, then agile, then DevOps, then continuous delivery. Each layer was added to address the failures of the previous one. Each one made things better, on average, for the teams and contexts in which it emerged.

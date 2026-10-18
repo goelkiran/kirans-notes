@@ -7,6 +7,11 @@
 
 ---
 
+<div align="center">
+  <img src="../assets/the_shared_microscope___w_cover.jpeg" alt="The shared microscope cover" width="100%" style="max-width: 800px; border-radius: 8px; margin: 16px 0;" />
+</div>
+
+
 Most of the machine reading that runs quietly inside investment, risk and insurance work is a black box, and the industry has learned to live with that. Models score filings, earnings calls, broker research, claims notes and news. The scores are useful. The signal is real. Nobody in the room can say, in plain language, what the model actually noticed — and for years that has been an acceptable trade. The output earns its keep, so the opacity is tolerated.
 
 I want to honour that trade before I question it. The dense vectors these models produce carry more about a document than any analyst could annotate by hand. A thousand numbers, each meaningless on its own, together holding a reading of the text richer than the summary a person would write. That is not a flaw. It is the reason the technique works at all. The compression is the point.
@@ -52,6 +57,10 @@ That is the thing I find worth sitting with. Not that we can see inside the mode
 ## What it could map onto
 
 The same engine that maps protein function can map the narrative structure of financial text. I find that worth thinking about for the investment, risk and insurance world, even from outside any one model.
+
+<div align="center">
+  <img src="../assets/the_shared_microscope___w_inline_2.jpeg" alt="Sparse Autoencoders Architecture Diagram" width="100%" style="max-width: 750px; border-radius: 8px; margin: 16px 0;" />
+</div>
 
 *From an opaque score to named, auditable concepts:*  
 An opaque document score could become a set of named, auditable concepts — guidance hedging, supply-chain stress, litigation language — rather than a number nobody can defend. Latent themes nobody predefined could surface as candidates for a thematic basket. A book's narrative exposure could be decomposed into concept features and watched as it drifts. And where a model decision has to be explained to a regulator, a feature carrying a validated label is a more defensible answer than "the model decided." In regulated work, that last point is not a nice-to-have. It is the difference between a control you can stand behind and one you cannot.

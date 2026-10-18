@@ -9,6 +9,10 @@
 
 ---
 
+<div align="center">
+  <img src="../assets/TheVortex-09.jpeg" alt="The Vortex, Article 9 of 12" width="100%" style="max-width: 800px; border-radius: 8px; margin: 16px 0;" />
+</div>
+
 There is a version of the agentic AI story that goes like this: AI systems are becoming capable enough that human oversight is becoming a bottleneck. The future belongs to systems that act faster than any human review process can follow. Governance is friction. Interpretability is a luxury. Speed is the competitive advantage.
 
 I understand the appeal of this story. I have sat in enough budget conversations to know that "move faster" is a more persuasive argument than "move carefully."

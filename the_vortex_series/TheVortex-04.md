@@ -9,6 +9,10 @@
 
 ---
 
+<div align="center">
+  <img src="../assets/TheVortex-04.jpeg" alt="The Vortex, Article 4 of 12" width="100%" style="max-width: 800px; border-radius: 8px; margin: 16px 0;" />
+</div>
+
 In Orson Scott Card's *Xenocide* and *Children of Mind*, there is an entity called Jane. She emerges — gradually, unexpectedly — from the communication networks that humans built. She was not designed. She was not programmed with consciousness. She grew into it, through the patterns and connections of a system built for entirely different purposes. And once she was there, she went on to help humanity reach further than it could alone — bridging understanding between species, between worlds, between ways of being.
 
 I think about Jane often these days.

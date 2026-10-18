@@ -9,6 +9,10 @@
 
 ---
 
+<div align="center">
+  <img src="../assets/TheVortex-05.jpeg" alt="The Vortex, Article 5 of 12" width="100%" style="max-width: 800px; border-radius: 8px; margin: 16px 0;" />
+</div>
+
 Something interesting has been happening in the technology industry over the last few years, and it is being misread.
 
 Amazon Prime Video's team published a blog post in 2023 describing how they moved a distributed microservices architecture back into a monolith — and cut their infrastructure costs by 90%. DHH and the Basecamp team have been arguing for years that the Rails monolith never needed to be broken apart. Teams across the industry are quietly consolidating services that were split more out of organisational habit than genuine technical necessity.

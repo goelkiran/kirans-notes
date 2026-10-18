@@ -9,6 +9,11 @@
 
 ---
 
+<div align="center">
+  <img src="../assets/living_specs__fast_and_sl_cover.jpeg" alt="Living specs, fast and slow" width="100%" style="max-width: 800px; border-radius: 8px; margin: 16px 0;" />
+</div>
+
+
 ## TL;DR
 
 Write down what a piece of software is meant to do, then stop updating it, and within weeks the document describes software you no longer have. Documents going stale is an old problem. What changes now is who reads them. When an agent builds the code straight from your written intent, a stale spec is not a tired document a person can second-guess — it is a wrong instruction the agent follows at speed. So intent has to stay alive. This piece splits the problem in two: slow intent, the durable shape of a project you write once and live with, and fast intent, the spec for a single change that lives and dies with it. The twist is that the same agent that made stale intent dangerous is the first tool cheap enough to keep it from going stale.
@@ -65,7 +70,11 @@ Other intent is fast. It is the spec for one change — this feature, this fix �
 
 Engineers have a related split, and it is worth naming so the two are not mixed up. They talk about static and dynamic context. Static is what an agent loads every single time it works — the rules files. Dynamic is what it pulls in only when a task calls for it — a particular document, a particular tool. That line is drawn around the machine: what gets loaded, and what it costs to load. The line I am drawing — slow versus fast — sits one step back from the machine, at the person: how often the intent itself changes, and how long you are on the hook for it. The two usually line up, because slow intent tends to be the always-loaded kind. But they answer different questions. Theirs is about the agent's memory. Mine is about who is responsible, and for how long.
 
-Slow/Fast vs Static/Dynamic Context
+<div align="center">
+  <img src="../assets/living_specs__fast_and_sl_inline_2.jpeg" alt="Slow/Fast vs Static/Dynamic Context" width="100%" style="max-width: 750px; border-radius: 8px; margin: 16px 0;" />
+  <p><em>Slow/Fast vs Static/Dynamic Context</em></p>
+</div>
+
 
 If slow/fast and static/dynamic were the same line, only the diagonal could ever be filled. A SKILL.md is durable yet loaded only on demand; a pinned note changes often yet stays loaded — the corners that aren't empty are the proof these are two questions, one about the agent's memory and one about who answers for the work.
 

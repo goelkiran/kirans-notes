@@ -9,6 +9,11 @@
 
 ---
 
+<div align="center">
+  <img src="../assets/what__semantic__actually_cover.jpeg" alt="What semantic actually means now cover" width="100%" style="max-width: 800px; border-radius: 8px; margin: 16px 0;" />
+</div>
+
+
 ## TL;DR
 
 The first two articles were about format and location — the substrate humans and agents can both read, and reaching it in one pass. This one is about meaning. The word "semantic" has split in two. There is the meaning a model infers from training — embeddings, the geometry from Article 1 — and the meaning humans declare and govern. An agent arrives carrying the inferred kind; correctness needs the declared kind. When the declared layer is missing, meaning breaks in two silent ways: the agent merges terms the domain keeps apart, or it picks one meaning and never tells you.
@@ -53,7 +58,10 @@ The whole problem in the sentence above is the gap between the two. The agent ha
 
 Which gives the principle the rest of this article turns on: no silent resolution. When an agent meets an ambiguous term, it has three honest moves. It can resolve the term against a declared definition. It can apply a declared default — a meaning the organisation has marked as the one to assume when none is specified. Or it can ask. What it must not do is the fourth thing, the thing it does by default: guess from inferred meaning and proceed without a word.
 
-The agent arrives with the inferred kind; correctness needs the declared kind. The gap between them is where meaning breaks — with no error thrown.
+<div align="center">
+  <img src="../assets/what__semantic__actually_inline_2.jpeg" alt="Inferred vs Declared Semantic Meaning" width="100%" style="max-width: 750px; border-radius: 8px; margin: 16px 0;" />
+  <p><em>The agent arrives with the inferred kind; correctness needs the declared kind. The gap between them is where meaning breaks — with no error thrown.</em></p>
+</div>
 
 I want to be clear that this is not a new worry, and the people who saw it early deserve credit before I go further.
 
@@ -99,7 +107,10 @@ So far this is about building software — specs to code. But the same declared 
 
 Put the three parts together and the payoff is one line. Define once, resolve everywhere. The analyst, the spec author, the code-generating agent, the query agent, the person at a dashboard — all of them reading the same declared meaning, so "client" is the same client and "revenue" is the same revenue, on the way in and on the way out. It is the cure for the oldest complaint in data work, the one where finance and sales show up to the meeting with two different numbers and both swear theirs is right.
 
-The agent arrives with the inferred kind; correctness needs the declared kind. The gap between them is where meaning breaks — with no error thrown.
+<div align="center">
+  <img src="../assets/what__semantic__actually_inline_4.jpeg" alt="Semantic Resolution Layer Architecture" width="100%" style="max-width: 750px; border-radius: 8px; margin: 16px 0;" />
+  <p><em>The agent arrives with the inferred kind; correctness needs the declared kind. The gap between them is where meaning breaks — with no error thrown.</em></p>
+</div>
 
 ## This is already happening
 

@@ -9,6 +9,10 @@
 
 ---
 
+<div align="center">
+  <img src="../assets/TheVortex-10.jpeg" alt="The Vortex, Article 10 of 12" width="100%" style="max-width: 800px; border-radius: 8px; margin: 16px 0;" />
+</div>
+
 For the last decade, "full-stack engineer" has been one of the most useful job titles in software. It named something real: a person who could work across the entire vertical slice of a system — frontend, backend, database, deployment. No handoffs. No waiting. One person who could take a feature from idea to production.
 
 The title worked because the stack was a coherent concept. Frontend technologies, backend frameworks, database engines, cloud infrastructure — these were distinct layers with distinct skill sets, but a motivated engineer could learn all of them, and the industry rewarded those who did.

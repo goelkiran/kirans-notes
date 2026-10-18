@@ -9,6 +9,10 @@
 
 ---
 
+<div align="center">
+  <img src="../assets/TheVortex-08.jpeg" alt="The Vortex, Article 8 of 12" width="100%" style="max-width: 800px; border-radius: 8px; margin: 16px 0;" />
+</div>
+
 Software versioning is one of the quieter achievements of the engineering profession. The idea that every change to a codebase should be recorded — who made it, when, what it changed, why — seems obvious in retrospect. But it took decades of painful experience with unmaintainable systems before the industry converged on it as a standard practice.
 
 We version libraries. We version APIs. We version database schemas. We tag releases. We maintain changelogs. We record the commit message that explains why a function was changed at 11pm on a Tuesday in 2019.

@@ -9,6 +9,11 @@
 
 ---
 
+<div align="center">
+  <img src="../assets/the_whole_message_cover.jpeg" alt="The whole message cover" width="100%" style="max-width: 800px; border-radius: 8px; margin: 16px 0;" />
+</div>
+
+
 ## TL;DR
 
 Before a long holiday, you write a handover differently than a normal note — you spell out the things you would usually leave unsaid, because for three weeks nobody can ask you what you meant. That is the oldest problem in communication: getting the whole of what you mean into a message a reader cannot question. An agent working from your spec is the lowest-context reader you will ever write for — it shares none of your unspoken world — and as the work moves to autopilot, it loses even the ability to stop and ask. So the message has to carry everything. This is the last article in the series, and it ends not with answers but with the questions that leaves me holding: about working asynchronously, about whether intent can move between agents, about the craft of writing it, and about whether intent can be made to correct itself the way a deep-space message does.

@@ -9,6 +9,10 @@
 
 ---
 
+<div align="center">
+  <img src="../assets/TheVortex-06.jpeg" alt="The Vortex, Article 6 of 12" width="100%" style="max-width: 800px; border-radius: 8px; margin: 16px 0;" />
+</div>
+
 Every best practice in software engineering has a reason. The reason is almost always a human being.
 
 We write readable code because the next person to touch it will be a human with limited time and context. We document APIs because the engineer on the consuming team is not the engineer who built the service, and we cannot expect them to read a thousand lines of source code to understand an interface. We standardise on shared languages and frameworks because a team of twelve cannot afford twelve different mental models. We enforce naming conventions because inconsistency is cognitively expensive when you are scanning code at speed, with a deadline, under pressure.

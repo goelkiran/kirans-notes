@@ -9,6 +9,11 @@
 
 ---
 
+<div align="center">
+  <img src="../assets/specs_and_semantics___the_cover.jpeg" alt="Specs and semantics — the two surfaces humans must answer for cover" width="100%" style="max-width: 800px; border-radius: 8px; margin: 16px 0;" />
+</div>
+
+
 ## TL;DR
 
 Three articles cleared the ground: a format both readers can parse, a location the agent can reach, a meaning everyone shares. None of them says what to build. Two human-authored surfaces do. The specification declares what should happen. The semantic model declares what things mean. Both are declarative, both are generative controls — they state what should be true, as opposed to the defensive controls (tests, evals, audit logs) that catch what went wrong — and both stay human. When an agent generates the implementation, these two are the only artefacts a person actually authored, which makes them the only things a person can answer for. Spec-driven development is the name the industry has landed on for the first surface. This piece is about why accountability concentrates on the two, and why the specification is the one that turns intent into software.
@@ -30,6 +35,10 @@ There is a distinction worth drawing before going further, because it explains w
 Some of the controls in a software system are generative. They declare what should be true, before the work is done. The specification is generative — it says what the system should do. The semantic model is generative — it says what the terms mean. They are the source. Everything correct in the system is meant to flow from them.
 
 The rest of the controls are defensive. They catch what went wrong, after the work is done. Tests. Evaluations. Guardrails. Audit logs. Lineage. These are the net beneath the work — and they matter, more than ever, as I will come to. But a net does not decide what should be caught. It reports that something fell. The defensive controls can tell you the system is wrong. They cannot tell you what right was.
+
+<div align="center">
+  <img src="../assets/specs_and_semantics___the_inline_2.jpeg" alt="Generative vs Defensive Controls Diagram" width="100%" style="max-width: 750px; border-radius: 8px; margin: 16px 0;" />
+</div>
 
 The generative half is where intent lives. And intent cannot be generated. An agent can write the code, propose the tests, draft the specification itself — but it drafts from what it was given, and the giving is human. Strip a system down to the artefacts that originated with a person, and you are left with two: what should happen, and what things mean. Specs and semantics. Everything else is downstream of them.
 
@@ -64,6 +73,10 @@ Here is the part that matters most, and it is not a tooling point. It is an acco
 In the world I work in — investment management, where a misread position becomes a misreported number to a regulator — someone has to be able to sign their name to what a system does. That signature has never meant "I typed every line." It has meant "I understand this, I vouch for it, and if it is wrong I am answerable." Accountability is the ability to explain and to stand behind.
 
 Now ask what a person can honestly sign for once an agent wrote the implementation. Not the code, line by line — they did not write it, and in a large system cannot read all of it. What they wrote, and can stand behind, is the intent and the meaning: the specification that said what should happen, and the semantic model that said what the terms meant. Those are the artefacts with a human author. Those are the surfaces where a signature attaches to something a person actually did.
+
+<div align="center">
+  <img src="../assets/specs_and_semantics___the_inline_4.jpeg" alt="Human Accountability Surfaces Diagram" width="100%" style="max-width: 750px; border-radius: 8px; margin: 16px 0;" />
+</div>
 
 This is why the generative half cannot be handed off. You can let the agent draft the spec — most teams will — but a human has to read it, own it, and answer for it, because it stands in for every line generated beneath it. The defensive controls still matter; I would argue they matter more in an agentic world, and I have written elsewhere in this newsletter about why regulatable, auditable systems are not optional in regulated domains. But the net does not absolve the author. The tests tell you whether the system matches the spec. Only a person can tell you whether the spec was right.
 

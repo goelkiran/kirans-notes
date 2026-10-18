@@ -9,6 +9,10 @@
 
 ---
 
+<div align="center">
+  <img src="../assets/TheVortex-02.jpeg" alt="The Vortex, Article 2 of 12" width="100%" style="max-width: 800px; border-radius: 8px; margin: 16px 0;" />
+</div>
+
 Before I can argue that something is changing, I need to explain what was built in the first place. And to explain that, I need to introduce a metaphor I'll be using throughout this series.
 
 I call it the vortex.

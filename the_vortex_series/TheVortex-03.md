@@ -9,6 +9,10 @@
 
 ---
 
+<div align="center">
+  <img src="../assets/TheVortex-03.jpeg" alt="The Vortex, Article 3 of 12" width="100%" style="max-width: 800px; border-radius: 8px; margin: 16px 0;" />
+</div>
+
 Before I question something, I want to honour it first.
 
 The practices that define how most software teams work today — agile sprints, microservices, DevOps, continuous delivery — were genuinely brilliant solutions to genuinely hard problems. They deserve more than a dismissive "well, that's over now." They deserve understanding. Because only when you understand *why* something was invented can you honestly ask whether the reason still applies.

@@ -9,6 +9,11 @@
 
 ---
 
+<div align="center">
+  <img src="../assets/context_that_can_t_be_rea_cover.jpeg" alt="Context that can't be reached can't be reasoned about cover" width="100%" style="max-width: 800px; border-radius: 8px; margin: 16px 0;" />
+</div>
+
+
 ## TL;DR
 
 The last article was about format — the substrate humans and agents can both read. This one is about location. A well-formatted Markdown specification is useless to an agent if it lives in a Confluence space behind a login, three clicks from the code. For an agent, distance is absence: what it cannot reach, it cannot reason about. We once kept requirements, tests, and scripts in the repository alongside the code, for human traceability. Agile dissolved that, for good reasons — trust and conversation replaced the sealed specification. A new reader brings the old discipline back, for a new reason. Co-locate everything, text-first, reachable in one pass.
@@ -94,6 +99,10 @@ The monorepo has two axes, and the industry built only one.
 The familiar one is horizontal. Google and Meta keep vast amounts of code in a single repository — code consolidated with code, across projects and teams. Call it the horizontal monorepo. It is not what I am describing. Google runs the best-known monorepo in the industry and still keeps its design documents in Google Docs, its incidents in separate tooling, its requirements in a tracker. The horizontal monorepo consolidated the code and left the artefacts where they were.
 
 The other axis is vertical. Not code with code, but every artefact with the code it concerns — requirement, design, script, test, incident, gathered in one place. Call it the vertical monorepo. Docs-as-code came closest to the instinct a decade ago: documentation in Markdown, versioned beside the code, reviewed through pull requests. It had the right idea. But it made its case for a human reader. What changes now is the reader. Co-location stops being a nicety that disciplined teams adopt and becomes a requirement, because the new reader cannot ask.
+
+<div align="center">
+  <img src="../assets/context_that_can_t_be_rea_inline_2.jpeg" alt="The Vertical Monorepo Architecture" width="100%" style="max-width: 750px; border-radius: 8px; margin: 16px 0;" />
+</div>
 
 One repository for a project — code with the requirement that shaped it, the design that governs it, the script that diagnosed it, the test that proves it, the incident that marked it. Co-located not because it is tidy, but because the reader can reason only about what it can reach.
 

@@ -4,11 +4,16 @@
 
 **Published in**: *Kiran's Notes* (LinkedIn Newsletter)  
 **Original URL**: [LinkedIn Pulse](https://www.linkedin.com/pulse/six-months-arguments-i-couldnt-resolve-so-am-writing-them-kiran-kumar-lndoc/)  
+**Companion Graphic**: [TheVortex-01.jpeg](../assets/TheVortex-01.jpeg)  
 **Companion PDF**: [TheVortex-01.pdf](../assets/TheVortex-01.pdf)  
 **Author**: Kiran Kumar ([@goelkiran](https://github.com/goelkiran) / [LinkedIn](https://www.linkedin.com/in/kirangoel))  
 **Date**: April 13, 2026  
 
 ---
+
+<div align="center">
+  <img src="../assets/TheVortex-01.jpeg" alt="The Vortex, Article 1 of 12" width="100%" style="max-width: 800px; border-radius: 8px; margin: 16px 0;" />
+</div>
 
 Every system, human or machine, eventually faces the same dilemma: explore or exploit: try something new and uncertain or stick with what already works?
 
